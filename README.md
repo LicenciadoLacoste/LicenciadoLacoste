@@ -49,14 +49,14 @@ Con foco en análisis exploratorio, SQL, visualización y bases de Machine Learn
 
 ---
 
-## 🚀 Tecnologías que estoy aprendiendo (esenciales hoy)
+## 🚀 Tecnologías que estoy aprendiendo 
 
-* 📈 Visualización: **Matplotlib, Seaborn**
-* 📊 BI: **Power BI / Looker Studio**
-* 🤖 Machine Learning: **scikit-learn**
-* ☁️ Introducción a Cloud: **Google Cloud Platform (BigQuery)**
-* 🧪 Data workflows y buenas prácticas
-
+* 🔄 Automatización de flujos de datos (n8n Cloud, Zapier, Make)
+* 🧩 ETL / ELT: extracción, transformación y carga de datos
+* 🔌 Integración y consumo de APIs REST
+* 📊 Visualización de datos (Power BI, Tableau o Looker Studio)
+* 🌱 Control de versiones avanzado con Git (branches, PRs, workflows)
+  
 ---
 
 ## 📌 Proyectos destacados
