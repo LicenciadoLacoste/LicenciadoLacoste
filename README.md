@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Lucas Lacoste</h1>
+<h3 align="center">Estudiante de Licenciatura en Ciencias de la Computación | Analista de Datos en formación</h3>
 
-<!--
-**LicenciadoLacoste/LicenciadoLacoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=22&center=true&vCenter=true&width=600&height=80&lines=Data+Analytics+Student;Python+%7C+SQL+%7C+Git;Always+learning+new+things">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+
+* 🎓 Estudiante de **Licenciatura en Ciencias de la Computación** (3er año)
+* 🏫 Universidad: *(podés agregarla si querés)*
+* 📍 Río Cuarto, Argentina
+* 📊 Interesado en **Análisis de Datos** y **Data Science**
+* 🧠 Me gusta transformar datos en información útil para la toma de decisiones
+* 🤝 Trabajo cómodo en equipo y bajo metodologías ágiles
+* 🌱 Actualmente aprendiendo herramientas clave del ecosistema de datos
+
+---
+
+## 🎯 Objetivo profesional
+
+**Analista de Datos (Junior)**
+Con foco en análisis exploratorio, SQL, visualización y bases de Machine Learning.
+
+---
+
+## 🛠️ Habilidades técnicas
+
+### 🔹 Lenguajes
+
+* 🐍 **Python**
+* 🗄️ **SQL / SQLite**
+* ☕ **Java**
+
+### 🔹 Análisis de Datos (actual)
+
+* Pandas
+* NumPy
+* SQL para consultas y análisis
+* Limpieza y transformación de datos
+
+### 🔹 Herramientas
+
+* Git / GitHub
+* Linux (Ubuntu)
+* Jupyter Notebook
+
+---
+
+## 🚀 Tecnologías que estoy aprendiendo (esenciales hoy)
+
+* 📈 Visualización: **Matplotlib, Seaborn**
+* 📊 BI: **Power BI / Looker Studio**
+* 🤖 Machine Learning: **scikit-learn**
+* ☁️ Introducción a Cloud: **Google Cloud Platform (BigQuery)**
+* 🧪 Data workflows y buenas prácticas
+
+---
+
+## 📌 Proyectos destacados
+
+> *(Acá te conviene fijar 2–3 repos de análisis de datos o SQL cuando los tengas)*
+
+* 📂 Análisis exploratorio de datasets públicos
+* 📂 Consultas SQL sobre datos reales
+* 📂 Mini proyectos de visualización
+
+---
+
+## 🔗 Conectemos
+
+<p align="center">
+  <a href="https://github.com/LicenciadoLacoste"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lucas-lacoste-679aa63a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LicenciadoLacoste&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LicenciadoLacoste&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+> 💡 *Perfil enfocado a Análisis de Datos. En constante aprendizaje y crecimiento profesional.*
