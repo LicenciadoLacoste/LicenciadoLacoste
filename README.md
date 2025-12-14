@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Licenciatura en Ciencias de la Computación | Analista de Datos en formación</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=22&center=true&vCenter=true&width=600&height=80&lines=Data+Analytics+Student;Python+%7C+SQL+%7C+Git;Always+learning+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=22&center=true&vCenter=true&width=600&height=80&lines=Data+Analytics+Student;Java+%7C+SQL+%7C+Git;Always+learning+new+things">
 </p>
 
 ---
