@@ -10,7 +10,7 @@
 ## 👨‍💻 Sobre mí
 
 * 🎓 Estudiante de **Licenciatura en Ciencias de la Computación** (3er año)
-* 🏫 Universidad: *(podés agregarla si querés)*
+* 🏫 Universidad: *Universidad Nacional de Rio Cuarto*
 * 📍 Río Cuarto, Argentina
 * 📊 Interesado en **Análisis de Datos** y **Data Science**
 * 🧠 Me gusta transformar datos en información útil para la toma de decisiones
@@ -61,11 +61,9 @@ Con foco en análisis exploratorio, SQL, visualización y bases de Machine Learn
 
 ## 📌 Proyectos destacados
 
-> *(Acá te conviene fijar 2–3 repos de análisis de datos o SQL cuando los tengas)*
-
-* 📂 Análisis exploratorio de datasets públicos
-* 📂 Consultas SQL sobre datos reales
-* 📂 Mini proyectos de visualización
+* 📂 Message Encryption & Decryption Algorithm (Java)
+* 📂 Algorithm Performance Optimization & Time Complexity Analysis
+* 📂 Relational Database Design for Electric Power Distribution Company
 
 ---
 
@@ -75,16 +73,3 @@ Con foco en análisis exploratorio, SQL, visualización y bases de Machine Learn
   <a href="https://github.com/LicenciadoLacoste"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/lucas-lacoste-679aa63a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LicenciadoLacoste&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LicenciadoLacoste&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-> 💡 *Perfil enfocado a Análisis de Datos. En constante aprendizaje y crecimiento profesional.*
