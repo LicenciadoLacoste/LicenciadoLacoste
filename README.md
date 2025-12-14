@@ -70,6 +70,14 @@ Con foco en análisis exploratorio, SQL, visualización y bases de Machine Learn
 ## 🔗 Conectemos
 
 <p align="center">
-  <a href="https://github.com/LicenciadoLacoste"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/lucas-lacoste-679aa63a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/LicenciadoLacoste">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-lacoste-679aa63a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lucasgonzalolacoste@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
