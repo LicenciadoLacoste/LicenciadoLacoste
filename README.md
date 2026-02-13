@@ -30,32 +30,17 @@ Con foco en análisis exploratorio, SQL, visualización y bases de Machine Learn
 
 ### 🔹 Lenguajes
 
-* 🐍 **Python**
 * 🗄️ **SQL / SQLite**
 * ☕ **Java**
 
 ### 🔹 Análisis de Datos (actual)
 
-* Pandas
-* NumPy
 * SQL para consultas y análisis
-* Limpieza y transformación de datos
 
 ### 🔹 Herramientas
 
 * Git / GitHub
 * Linux (Ubuntu)
-* Jupyter Notebook
-
----
-
-## 🚀 Tecnologías que estoy aprendiendo 
-
-* 🔄 Automatización de flujos de datos (n8n Cloud, Zapier, Make)
-* 🧩 ETL / ELT: extracción, transformación y carga de datos
-* 🔌 Integración y consumo de APIs REST
-* 📊 Visualización de datos (Power BI, Tableau o Looker Studio)
-* 🌱 Control de versiones avanzado con Git (branches, PRs, workflows)
   
 ---
 
